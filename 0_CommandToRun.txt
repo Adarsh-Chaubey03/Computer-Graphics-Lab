@@ -1,0 +1,3 @@
+gcc name.c -o name -lglut -lGLU -lGL -lm
+./name
+
